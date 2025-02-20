@@ -97,7 +97,7 @@ IOT 개발자 자료구조와 알고리즘(코딩테스트) 리포지토리 2025
 - 자료구조/알고리즘        
     - 정렬 : [노트북](./day06/da04_sort.ipynb)
 
-
+https://github.com/user-attachments/assets/bed7957c-af64-4a8f-b810-2dd6a35ea2d7
 
 ## 7일차
 - 자료구조/알고리즘
