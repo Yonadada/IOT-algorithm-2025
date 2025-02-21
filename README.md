@@ -21,13 +21,13 @@ IOT 개발자 자료구조와 알고리즘(코딩테스트) 리포지토리 2025
 
 #### 알고리즘 성능
 - `빅오 표기법`(빠른 순)
-    -$O(1)$ : 데이터 수에 관계없이 항상 일정한 시간 소요
-    -$O(log n)$ : 단순 for문이지만 전체 중 일부만 처리 
-    -$O(n)$ : 단순 for문
-    -$O(n log n)$ : 이중 for문인데 안쪽 for문이 전체 중 일부만 처리
-    -$O(n^2)$ : 이중 for문
-    -$O(n^3)$ : 삼중 for문
-    -$O(2^n)$ : 지수 시간 복잡도를 의미
+    - $O(1)$ : 데이터 수에 관계없이 항상 일정한 시간 소요
+    - $O(log n)$ : 단순 for문이지만 전체 중 일부만 처리 
+    - $O(n)$ : 단순 for문
+    - $O(n log n)$ : 이중 for문인데 안쪽 for문이 전체 중 일부만 처리
+    - $O(n^2)$ : 이중 for문
+    - $O(n^3)$ : 삼중 for문
+    - $O(2^n)$ : 지수 시간 복잡도를 의미
 
 ### 리스트 복습 
 - 1차원, 2차원 
@@ -81,7 +81,7 @@ IOT 개발자 자료구조와 알고리즘(코딩테스트) 리포지토리 2025
     - 그래프 : [노트북](./day05/da01_graph.ipynb)
         - 깊이우선탐색 : [파이썬](./day05/da02_dfs.py)
         - 최소비용 신장트리 : [파이썬](./day05/da03_min_cost_spanningTree.py)
-            - 응용예제 [파이썬](./day05/da03-1_min_cost_spanningTree(355pg).py) --> 해야함 
+            - 응용예제 [파이썬](./day05/da03-1_min_cost_spanningTree(355pg).py) --> 업데이트 예정
 
     - 재귀호출 : [노트북](./day05/da04_recursive_call.ipynb)
 
@@ -90,22 +90,31 @@ IOT 개발자 자료구조와 알고리즘(코딩테스트) 리포지토리 2025
 - 자료구조/알고리즘
     - 재귀호출
         - 재귀호출 연습 : [노트북](./day06/da01_recursive_practice.ipynb)
-        - 프랙탈 연습 : [파이썬](./day06/da02_fractal01.py) + 자료 더 있음
-          
+        - 프랙탈 연습 : [파이썬](./day06/da02_fractal01.py) | [파이썬](./day06/da03_fractal02.py)
+            - 응용 예제 : [파이썬](./day06/da03-1_fractal(P385).py)  
+
 https://github.com/user-attachments/assets/bed7957c-af64-4a8f-b810-2dd6a35ea2d7
 
 
 - 자료구조/알고리즘        
     - 정렬 : [노트북](./day06/da04_sort.ipynb)
+        - 응용 예제 1. [파이썬](./day06/da04-1_sort(p416).py)
+        - 응용 예제 2. [파이썬](./day06/da04-2_sort_practice(p421).py)
+
 
 
 ## 7일차
 - 자료구조/알고리즘
     - 정렬
-        - 퀵 정렬
+        - 퀵 정렬 [노트북](./day06/da04_sort.ipynb)
         - 정렬 알고리즘 응용
+            - 응용 예제 1. [파이썬](./day07/da02-1_practice(p453).py)
+            - 응용 예제 2. [파이썬](./day07/da02-2_practice(p457).py) --> 업데이트 예정
 
-    - 동적 계획법
+    - 동적 계획법 [노트북](./day07/da03_dynamic_programming.ipynb)
+        - 응용 예제 1. [파이썬](./day07/da04_dynamic_proPractice(p504).py) --> 업데이트 예정
+        - 응용예제 2. [파이썬] -> 업데이트 예정
+
 
 
 ## 8일차
