@@ -119,5 +119,7 @@ https://github.com/user-attachments/assets/bed7957c-af64-4a8f-b810-2dd6a35ea2d7
 
 ## 8일차
 - 자료구조/알고리즘
-    - 검색
+    - 검색 : [노트북](./day08/da01_search.ipynb)
+        - 검색 구현
+            [파이썬](./day08/da02_searchEx.py)
     - 코딩테스트
